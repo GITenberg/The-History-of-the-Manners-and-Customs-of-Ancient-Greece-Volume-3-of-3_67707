@@ -1,0 +1,40 @@
+_repo: The-History-of-the-Manners-and-Customs-of-Ancient-Greece-Volume-3-of-3_67707
+_version: 0.0.1
+creator:
+  author:
+    agent_name: St. John, James Augustus
+    aliases:
+    - John, J. A. St.
+    - Saint John, James Augustus
+    - John, James Augustus St.
+    - John, James
+    birthdate: 1795
+    deathdate: 1875
+    gutenberg_agent_id: '53328'
+    url: http://www.gutenberg.org/2009/agents/53328
+    wikipedia: https://en.wikipedia.org/wiki/James_Augustus_St._John
+description: ''
+gutenberg_issued: '2022-03-25'
+identifiers:
+  gutenberg: '67707'
+language: en
+pgterms:marc904:
+- view=1up
+- https://babel.hathitrust.org/cgi/pt?id=gri.ark:/13960/t5hb1tw1q
+- seq=5
+pgterms:marc905: 20190415011942stjohn
+pgterms:marc906: '1842'
+pgterms:marc907: UK
+production_note: KD Weeks, Turgut Dincer and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: UK :R. Bentley,1842.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Greece -- Social life and customs'
+- GITenberg
+title: The History of the Manners and Customs of Ancient Greece, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/67707
